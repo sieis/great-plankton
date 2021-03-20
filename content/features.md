@@ -20,7 +20,7 @@ sections:
       - label: Elevation Profile
         url: >-
           http://www.pinhotitrailseries.com/uploads/3/7/8/5/37858867/258054_4086821083283_1967570356_o.jpg
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: left
