@@ -106,7 +106,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Register Now!
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Pinhoti fills up early every year.
     actions:
       - label: Get Started
         url: /signup
