@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/pinhoti-cover.png
+    image: images/cool-turmeric.png
     image_alt: App preview
     title: PINHOTI 100
     content: "Pinhoti 100 is a Point to Point endurance run starting at Pine Glen Campground in Choccolocco Mgt Area just northeast of Heflin AL. \_100.59 miles in length with just over 14,000 ft of climb and descent with a total of 28,000 ft of elevation change. Race Date: November 6-7, 2021\n\n"
