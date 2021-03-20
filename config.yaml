@@ -21,7 +21,7 @@ params:
         url: /style-guide
         style: link
       - label: Register
-        url: /signup
+        url: 'https://ultrasignup.com/register.aspx?did=81711'
         style: primary
   footer:
     sections:
