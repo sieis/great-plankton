@@ -14,7 +14,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: Course Information
     features:
       - title: Runners' Manual
         image: images/feature1.png
