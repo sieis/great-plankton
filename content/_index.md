@@ -49,7 +49,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Course
-        image: images/feature2.png
+        image: images/elevation.png
         image_alt: App users welcoming a new member
         content: |
           Course information including Description, Maps and Aid Station Info.
