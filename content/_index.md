@@ -55,7 +55,7 @@ sections:
           Course information including Description, Maps and Aid Station Info.
         actions:
           - label: Learn More
-            url: /features
+            url: 'http://www.pinhotitrailseries.com/course.html'
             style: secondary
             has_icon: true
             icon: arrow-right
