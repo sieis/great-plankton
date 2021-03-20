@@ -15,7 +15,6 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: "Starting Line:\_https://goo.gl/maps/pWMqJxhcHTVXpvWt8"
     features:
       - title: Runners' Manual
         image: images/feature1.png
