@@ -22,10 +22,18 @@ sections:
       - title: Runners' Manual
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >+
+          2021 Manual will be updated but will be very much the same as
+          2020Please note the Runner Manual is subject to change and we will
+          notify all registered runners of any changes made.The Pinhoti Trail is
+          some of the most beautiful trail that navigates over rocks, through
+          creeks and over Cheaha Mountain, (2408ft) the highest point in Alabama
+          while traversing the Talladega National Forest.Although not a first
+          timer course many 100 mile virgins come to complete each year. Some
+          succeed and some fail. The course is very doable for the properly
+          trained runner. We and all the awesome volunteers are here to help you
+          reach your goal to the finish line!
+
         actions:
           - label: 2020 Runner's Manual
             url: /features
