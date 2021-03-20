@@ -48,7 +48,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Course
+      - title: Course & Lodging
         image: images/elevation.png
         image_alt: App users welcoming a new member
         content: |
