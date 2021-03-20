@@ -33,7 +33,7 @@ sections:
     subtitle: Pinhoti fills up early every year.
     actions:
       - label: Get Started
-        url: '#'
+        url: 'https://ultrasignup.com/register.aspx?did=31286'
         style: secondary
 seo:
   title: Features
