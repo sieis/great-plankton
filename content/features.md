@@ -14,7 +14,8 @@ sections:
           http://www.pinhotitrailseries.com/uploads/3/7/8/5/37858867/course_description_2020.pdf
         style: primary
       - label: Aid Station Chart
-        url: '#'
+        url: >-
+          https://docs.google.com/document/d/1ZjGNlKQerElo0w3JRv7G8qV0ZlX80MKnxdavoFuVX7Y/edit
         style: secondary
   - section_id: call-to-action
     type: section_cta
