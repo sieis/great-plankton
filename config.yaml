@@ -5,7 +5,7 @@ params:
   palette: green
   header:
     logo_img: images/logo.png
-    logo_img_alt: Logo
+    logo_img_alt: Pinhoti Logo
     has_nav: true
     nav_links:
       - label: Home
