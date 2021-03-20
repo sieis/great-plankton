@@ -23,8 +23,8 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
-          ## The 2021 Manual will be updated but will be very much the same as
-          2020.
+          ##### The 2021 Manual will be updated but will be very much the same
+          as 2020.
 
 
           Please note the Runner Manual is subject to change and we will notify
