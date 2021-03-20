@@ -13,7 +13,7 @@ sections:
         url: >-
           http://www.pinhotitrailseries.com/uploads/3/7/8/5/37858867/course_description_2020.pdf
         style: primary
-      - label: View Demo
+      - label: Aid Station Chart
         url: '#'
         style: secondary
   - section_id: call-to-action
