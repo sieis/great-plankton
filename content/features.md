@@ -18,7 +18,8 @@ sections:
           https://docs.google.com/document/d/1ZjGNlKQerElo0w3JRv7G8qV0ZlX80MKnxdavoFuVX7Y/edit
         style: secondary
       - label: Elevation Profile
-        url: '#'
+        url: >-
+          http://www.pinhotitrailseries.com/uploads/3/7/8/5/37858867/258054_4086821083283_1967570356_o.jpg
         style: link
         has_icon: false
         icon: arrow-left
