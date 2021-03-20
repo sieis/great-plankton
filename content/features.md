@@ -17,7 +17,7 @@ sections:
         url: >-
           https://docs.google.com/document/d/1ZjGNlKQerElo0w3JRv7G8qV0ZlX80MKnxdavoFuVX7Y/edit
         style: secondary
-      - label: lorem-ipsum
+      - label: Elevation Profile
         url: '#'
         style: link
         has_icon: false
